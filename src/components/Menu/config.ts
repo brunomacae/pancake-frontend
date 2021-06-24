@@ -35,11 +35,6 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
     href: '/farms',
   },
   {
-    label: t('Team Battle'),
-    icon: 'TeamBattleIcon',
-    href: '/competition',
-  },
-  {
     label: t('Teams & Profile'),
     icon: 'GroupsIcon',
     items: [
