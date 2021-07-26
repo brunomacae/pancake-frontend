@@ -20,7 +20,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'CAKE-BNB LP',
     lpAddresses: {
       97: '0x3ed8936cAFDF85cfDBa29Fbe5940A5b0524824F4',
-      56: '0x0eD7e52944161450477ee417DE9Cd3a859b14fD0',
+      56: '0x9f7f7f0ea75702bf7b5d943923e3357bccc9674a',
     },
     token: tokens.cake,
     quoteToken: tokens.wbnb,
